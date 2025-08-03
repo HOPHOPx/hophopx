@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Chimpanzini Spiderini",
-    "Valor": "$3.5M/s",
-    "Mutacion": "Gold",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"3312e247-7714-4172-8654-d465a99f1efe\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Matteo",
     "Valor": "$450K/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$500K/s",
     "Mutacion": "BloodRot",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"d9208c70-754c-4912-bad8-7df9d9e6170e\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Piccione Macchina",
+    "Valor": "$1.4M/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"40160dd7-a18c-4382-89dc-5edc7c6dbec7\", game.Players.LocalPlayer)"
   }
 ]
