@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Orcalero Orcala",
-    "Valor": "$600K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"37537016-d1a4-4d55-9dca-f3629abc9063\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Agarrini la Palini",
     "Valor": "$425K/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$150K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"d875b098-2c98-4bfd-bcb6-7c189531d52f\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Piccione Macchina",
+    "Valor": "$2.2M/s",
+    "Mutacion": "Rainbow",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"90be489f-508c-4f60-93c8-fb81dc776ae1\", game.Players.LocalPlayer)"
   }
 ]
