@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Tralalero Tralala",
-    "Valor": "$450K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"e8afaebf-63d2-49d8-9aaa-2eb3e1b45de3\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Agarrini la Palini",
     "Valor": "$425K/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$2.2M/s",
     "Mutacion": "Diamond",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"8657133c-4e37-46d7-8cc6-e8cf3ee5c3c4\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Los Crocodillitos",
+    "Valor": "$605K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c71d564e-cd96-479c-90f8-7ad1903d8124\", game.Players.LocalPlayer)"
   }
 ]
