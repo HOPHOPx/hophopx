@@ -1,44 +1,44 @@
 [
   {
-    "Found Brainrot": "Odin Din Din Dun",
-    "Valor": "$750K/s",
+    "Found Brainrot": "La Vacca Saturno Saturnita",
+    "Valor": "$2.5M/s",
     "Mutacion": "Rainbow",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"338438ec-2198-4391-8b1a-7207dbd50022\", game.Players.LocalPlayer)"
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"06ad7eb9-6e26-48b8-8aff-248857038036\", game.Players.LocalPlayer)"
   },
   {
-    "Found Brainrot": "Orcalero Orcala",
+    "Found Brainrot": "La Vacca Saturno Saturnita",
+    "Valor": "$1.3M/s",
+    "Mutacion": "Gold",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"8b2efdfe-e628-41fa-8996-9ad79a985057\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Matteo",
+    "Valor": "$300K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"35515125-b56c-45d8-9be9-a3bce9b225d4\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Trenostruzzo Turbo 3000",
+    "Valor": "$487.5K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"edc44f18-cce2-4a56-885d-bbb4cbf528c5\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Trenostruzzo Turbo 3000",
+    "Valor": "$1.2M/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"32966239-2ca4-4398-9cb8-b662960db0ef\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Tigroligre Frutonni",
     "Valor": "$600K/s",
     "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"d7627f71-3328-47a9-9696-e85fd5641532\", game.Players.LocalPlayer)"
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"625c2cbb-8a7f-4e83-8360-88ce2339e55a\", game.Players.LocalPlayer)"
   },
   {
-    "Found Brainrot": "Chicleteira Bicicleteira",
-    "Valor": "$3.5M/s",
+    "Found Brainrot": "Las Tralaleritas",
+    "Valor": "$5.5M/s",
     "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c26ff293-deb5-4610-893f-8cf24f4259e8\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Los Combinasionas",
-    "Valor": "$15M/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"702a3c73-83ce-4dd8-a41a-f3e77f79f8b0\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Piccione Macchina",
-    "Valor": "$3.3M/s",
-    "Mutacion": "Rainbow",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"ab70824f-45cf-475d-90f6-fb535d7113f3\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Chimpanzini Spiderini",
-    "Valor": "$1.9M/s",
-    "Mutacion": "Gold",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"ff14baa7-cf10-4b80-bf07-b6d78521f283\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Trippi Troppi Troppa Trippa",
-    "Valor": "$175K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"42b84a43-8f0d-494c-8e0e-39d57cc2985e\", game.Players.LocalPlayer)"
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"cf1e4e77-8f1b-4cef-aac7-0754fa4a92f8\", game.Players.LocalPlayer)"
   }
 ]
