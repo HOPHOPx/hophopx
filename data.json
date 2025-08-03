@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Girafa Celestre",
-    "Valor": "$130K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(96342491571673, \"5a372221-6257-4061-b778-acafc570c71c\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Piccione Macchina",
     "Valor": "$3.3M/s",
     "Mutacion": "Rainbow",
@@ -88,5 +82,11 @@
     "Valor": "$175K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"520f8588-e546-4b25-a564-1a93ed69efed\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Odin Din Din Dun",
+    "Valor": "$1M/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(128762245270197, \"58d43d6d-9419-4a84-9215-4efb175faf45\", game.Players.LocalPlayer)"
   }
 ]
