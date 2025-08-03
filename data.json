@@ -10,5 +10,11 @@
     "Valor": "$300K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f99a68c0-8289-4019-b860-05a55b3b2688\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Statutino Libertino",
+    "Valor": "$450K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"cddea351-e92b-4c77-b2cb-0586dbba8d11\", game.Players.LocalPlayer)"
   }
 ]
