@@ -1,6 +1,6 @@
 {
-  "Found Brainrot": "Piccione Macchina",
-  "Valor": "$3.9M/s",
-  "Mutacion": "Normal",
-  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"d7a535c6-344a-4047-8f93-63745fc2f288\", game.Players.LocalPlayer)"
+  "Found Brainrot": "Los Tralaleritos",
+  "Valor": "$2.2M/s",
+  "Mutacion": "Diamond",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"bb20f98c-cf37-482f-99b0-3b507b04e161\", game.Players.LocalPlayer)"
 }
