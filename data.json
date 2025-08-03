@@ -1,1 +1,6 @@
-s
+{
+  "Found Brainrot": "Chimpanzini Spiderini",
+  "Valor": "$3.5M/s",
+  "Mutacion": "Gold",
+  "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"40b556fe-ca16-42f9-921e-7a21eb4f03fe\", game.Players.LocalPlayer)"
+}
