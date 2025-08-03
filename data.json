@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Las Tralaleritas",
-    "Valor": "$812.5K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"0baa7b21-f0f3-4d2e-ab73-edbe075176a4\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Orcalero Orcala",
     "Valor": "$500K/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$600K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"861191ac-a986-4394-ada7-2cad87a22c58\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "La Vacca Saturno Saturnita",
+    "Valor": "$250K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c6bd0222-b2b3-4fa6-aa8f-42f3c9ffd0f2\", game.Players.LocalPlayer)"
   }
 ]
