@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Trenostruzzo Turbo 3000",
-    "Valor": "$150K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(96342491571673, \"4ff3e592-e6e0-4f32-a04f-769eb0ddfa76\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Girafa Celestre",
     "Valor": "$120K/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$425K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"dd935858-5efd-4c17-8f4e-54158380248c\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Espresso Signora",
+    "Valor": "$420K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"91e6c63d-d16d-4b0d-94d7-89bdd4a49339\", game.Players.LocalPlayer)"
   }
 ]
