@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "La Grande Combinasion",
-    "Valor": "$12.5M/s",
-    "Mutacion": "Gold",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"3c9e5660-dd2b-45c4-839a-e56a067a3fbf\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Trippi Troppi Troppa Trippa",
     "Valor": "$1M/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$375K/s",
     "Mutacion": "Diamond",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"b126b571-5fb0-4c22-8808-9201972a7198\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Orcalero Orcala",
+    "Valor": "$600K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"88f29693-e896-49bf-a4d8-d618394f7941\", game.Players.LocalPlayer)"
   }
 ]
