@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Statutino Libertino",
-    "Valor": "$450K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"cddea351-e92b-4c77-b2cb-0586dbba8d11\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "La Vacca Saturno Saturnita",
     "Valor": "$2M/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$1M/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"1ee581fa-3cfa-4f89-9c3e-303a9536d2ab\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Los Combinasionas",
+    "Valor": "$15M/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"2a2e6245-2574-4bdc-ae8c-8d52592e4d5e\", game.Players.LocalPlayer)"
   }
 ]
