@@ -40,5 +40,11 @@
     "Valor": "$425K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"7250bbb0-dccd-45aa-ac4a-9ff2b17ce13b\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Orcalero Orcala",
+    "Valor": "$600K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"ab03b424-3bd3-4fb6-b3bb-e1ecae812afd\", game.Players.LocalPlayer)"
   }
 ]
