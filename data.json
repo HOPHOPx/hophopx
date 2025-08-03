@@ -1,44 +1,56 @@
 [
   {
-    "Found Brainrot": "Trenostruzzo Turbo 3000",
-    "Valor": "$787.5K/s",
+    "Found Brainrot": "Orcalero Orcala",
+    "Valor": "$600K/s",
     "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"303a2463-ba6f-4b55-918d-c006c38b121a\", game.Players.LocalPlayer)"
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"d276a16e-09f9-4d92-82a0-6cd1a7107ab3\", game.Players.LocalPlayer)"
   },
   {
-    "Found Brainrot": "Statutino Libertino",
-    "Valor": "$825K/s",
+    "Found Brainrot": "La Vacca Saturno Saturnita",
+    "Valor": "$2.5M/s",
+    "Mutacion": "Rainbow",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"14b740f9-f7b8-4fb3-8929-6491f17dcc34\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Odin Din Din Dun",
+    "Valor": "$675K/s",
     "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"dd297adc-a3f7-447a-abd6-e4d7a945782e\", game.Players.LocalPlayer)"
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f942dd75-4835-4cdd-805c-fa89b72f3437\", game.Players.LocalPlayer)"
   },
   {
     "Found Brainrot": "Tigroligre Frutonni",
-    "Valor": "$375K/s",
+    "Valor": "$315K/s",
     "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"120333e3-a58a-49c3-91f6-df5395e435f4\", game.Players.LocalPlayer)"
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a4068deb-6d65-4084-ad82-a77c80925829\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "La Grande Combinasion",
+    "Valor": "$10M/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"7f3f4fe2-8397-4a8a-8657-a9ba8bcc94e9\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Tigroligre Frutonni",
+    "Valor": "$780K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"87e271cc-72c4-4d1d-9cdf-50fa7791a026\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Las Vaquitas Saturnitas",
+    "Valor": "$1.1M/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a7cd8177-b477-48a6-af04-d07336f0d5ce\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "La Grande Combinasion",
+    "Valor": "$10M/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"20d19d0e-2763-413a-a0d4-73dd7b53397c\", game.Players.LocalPlayer)"
   },
   {
     "Found Brainrot": "Orcalero Orcala",
     "Valor": "$600K/s",
     "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"d3f7d88e-34e0-49a1-9075-7fa1c196845c\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Torrtuginni Dragonfrutini",
-    "Valor": "$3.8M/s",
-    "Mutacion": "Lava",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"3b8ba944-d554-4f37-bd1b-1a3cc9195c5d\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Chimpanzini Spiderini",
-    "Valor": "$2.6M/s",
-    "Mutacion": "Gold",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"9dae109f-8b1b-45f3-b8a1-1fad7fa6c768\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "La Vacca Saturno Saturnita",
-    "Valor": "$1.3M/s",
-    "Mutacion": "Diamond",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"515dfee5-3c1a-41dd-9c6d-9a311248a20b\", game.Players.LocalPlayer)"
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"03611c74-4ab4-478d-abc1-2c5baac45050\", game.Players.LocalPlayer)"
   }
 ]
