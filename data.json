@@ -34,5 +34,11 @@
     "Valor": "$2.7M/s",
     "Mutacion": "Lava",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a731c0b9-1264-44a4-a691-599b59c80ffa\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Trenostruzzo Turbo 3000",
+    "Valor": "$150K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(96342491571673, \"894d541a-cc93-4863-8d97-d0d925947dbc\", game.Players.LocalPlayer)"
   }
 ]
