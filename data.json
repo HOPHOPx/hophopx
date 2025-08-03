@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Piccione Macchina",
-    "Valor": "$3.3M/s",
-    "Mutacion": "Rainbow",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"ec493984-bbfb-4a67-b246-f8c859e71636\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Odin Din Din Dun",
     "Valor": "$300K/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$150K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"20a53ae6-f090-4814-b62e-5f9069cb3f87\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "La Vacca Saturno Saturnita",
+    "Valor": "$1.5M/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"840edc1e-f5a2-49bd-96a4-56689378f3bc\", game.Players.LocalPlayer)"
   }
 ]
