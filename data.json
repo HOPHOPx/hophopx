@@ -52,5 +52,11 @@
     "Valor": "$3.5M/s",
     "Mutacion": "Gold",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"7444da70-60ae-4fcd-a23f-09296f46698c\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Graipuss Medussi",
+    "Valor": "$1.2M/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c5db4914-56a5-41ff-aa13-76d075d36052\", game.Players.LocalPlayer)"
   }
 ]
