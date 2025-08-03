@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Girafa Celestre",
-    "Valor": "$200K/s",
-    "Mutacion": "Rainbow",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"ff286dfd-e021-4085-b346-94e8eb60af4f\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Las Tralaleritas",
     "Valor": "$4M/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$3.5M/s",
     "Mutacion": "Gold",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"d34e4196-bbff-4b3c-9191-187adf099f29\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Orcalero Orcala",
+    "Valor": "$600K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"65c5c72c-216f-43ed-997b-829f27123ecb\", game.Players.LocalPlayer)"
   }
 ]
