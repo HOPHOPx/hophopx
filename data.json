@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Girafa Celestre",
-    "Valor": "$120K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"581914f4-d681-4364-95a5-2ccf34ee05e7\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Trippi Troppi Troppa Trippa",
     "Valor": "$175K/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$420K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"91e6c63d-d16d-4b0d-94d7-89bdd4a49339\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "La Vacca Saturno Saturnita",
+    "Valor": "$2.7M/s",
+    "Mutacion": "Lava",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"4e853301-7b15-4848-af90-17f1ab1bb4de\", game.Players.LocalPlayer)"
   }
 ]
