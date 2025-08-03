@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Matteo",
-    "Valor": "$450K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"fdb83a6d-f108-4388-9e3a-a52958f6f2b8\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Los Tungtungtungcitos",
     "Valor": "$1.3M/s",
     "Mutacion": "Gold",
@@ -88,5 +82,11 @@
     "Valor": "$1.4M/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"40160dd7-a18c-4382-89dc-5edc7c6dbec7\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Trippi Troppi Troppa Trippa",
+    "Valor": "$875K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"70f8bcd7-0c22-4c7d-8f79-5f31af0d970e\", game.Players.LocalPlayer)"
   }
 ]
