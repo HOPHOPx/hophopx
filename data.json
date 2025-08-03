@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Las Vaquitas Saturnitas",
-    "Valor": "$3M/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"8ff9c06b-f56b-434e-b4e3-c4d0eb359698\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "La Vacca Saturno Saturnita",
     "Valor": "$3.7M/s",
     "Mutacion": "Rainbow",
@@ -88,5 +82,11 @@
     "Valor": "$450K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(96342491571673, \"920a7f6e-9ba4-48a6-b80c-5af7328841cf\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Agarrini la Palini",
+    "Valor": "$425K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"8e090ccf-f9a2-46fe-9564-1140a00b423a\", game.Players.LocalPlayer)"
   }
 ]
