@@ -52,5 +52,11 @@
     "Valor": "$900K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"be6f7059-f9d6-4419-8fbd-4c5d92b4447d\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Espresso Signora",
+    "Valor": "$140K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"3c5097cf-cf75-4d65-ba12-35bcc44f01c4\", game.Players.LocalPlayer)"
   }
 ]
