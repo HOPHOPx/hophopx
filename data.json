@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Trenostruzzo Turbo 3000",
-    "Valor": "$637.5K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"64b0746c-ef92-4deb-96aa-149a7d41492c\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Orcalero Orcala",
     "Valor": "$1.1M/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$425K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"8ddeefb0-1e04-41f4-81b6-f478d3890328\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Chimpanzini Spiderini",
+    "Valor": "$406.2K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"db1b26c7-d3e1-4287-97c1-2a727446d2cd\", game.Players.LocalPlayer)"
   }
 ]
