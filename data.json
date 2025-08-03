@@ -4,5 +4,11 @@
     "Valor": "$481.2K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"42fd0985-0dfe-461f-a1fa-3e0a529ba8bf\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Tralalero Tralala",
+    "Valor": "$300K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f99a68c0-8289-4019-b860-05a55b3b2688\", game.Players.LocalPlayer)"
   }
 ]
