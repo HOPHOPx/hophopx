@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Espresso Signora",
-    "Valor": "$140K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"14596ece-77f4-4c18-93f1-37a34887f83d\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Graipuss Medussi",
     "Valor": "$10M/s",
     "Mutacion": "Rainbow",
@@ -88,5 +82,11 @@
     "Valor": "$1M/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"3b34c811-a329-4922-bc38-af727d1836ab\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Tukanno Bananno",
+    "Valor": "$100K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"c7a07dfb-efe1-42a7-9444-491fe9d24a00\", game.Players.LocalPlayer)"
   }
 ]
