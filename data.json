@@ -34,5 +34,11 @@
     "Valor": "$220K/s",
     "Mutacion": "Normal",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"d0c6cbb2-8d00-41f5-b499-4d9550748c10\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Agarrini la Palini",
+    "Valor": "$425K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"7250bbb0-dccd-45aa-ac4a-9ff2b17ce13b\", game.Players.LocalPlayer)"
   }
 ]
