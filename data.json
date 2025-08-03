@@ -10,5 +10,11 @@
     "Valor": "$10M/s",
     "Mutacion": "Rainbow",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f41c58c5-73b5-475d-99be-5428720f6e89\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Los Crocodillitos",
+    "Valor": "$330K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"7a4a70b7-bbc0-45bc-bdb4-ba1ea6b1923f\", game.Players.LocalPlayer)"
   }
 ]
