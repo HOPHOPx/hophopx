@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Chicleteira Bicicleteira",
-    "Valor": "$4.3M/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"1c68a2b7-26f7-4461-ab13-ef3554fa78ca\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Tralalero Tralala",
     "Valor": "$212.5K/s",
     "Mutacion": "Normal",
@@ -88,5 +82,11 @@
     "Valor": "$1.9M/s",
     "Mutacion": "Gold",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"03704b84-c813-49c5-829f-360431d75bbc\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Statutino Libertino",
+    "Valor": "$825K/s",
+    "Mutacion": "Normal",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"b251e819-785f-4799-b382-d8c074d65a6c\", game.Players.LocalPlayer)"
   }
 ]
