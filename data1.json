@@ -1,92 +1,92 @@
 [
   {
-    "Found Brainrot": "Orcalero Orcala",
-    "Valor": "$500K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"4af1f4b7-1420-42d0-8ac8-4c7ce38f986a\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Torrtuginni Dragonfrutini",
-    "Valor": "$3.8M/s",
-    "Mutacion": "Lava",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f23a29ee-06dc-47d6-b267-9e1ad3985937\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Matteo",
-    "Valor": "$300K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"e75eaf46-95d4-4a9c-a90f-0956d88ea600\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "La Vacca Saturno Saturnita",
-    "Valor": "$2.5M/s",
-    "Mutacion": "Rainbow",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"8562e0af-8c51-48f6-87ed-59cd47e5b123\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Los Crocodillitos",
-    "Valor": "$220K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"14c0eddd-9ef0-48d0-b086-507d13166f0e\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Orcalero Orcala",
-    "Valor": "$600K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f25e5bcb-cb3d-4f7b-9709-eedac9580bd8\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Orcalero Orcala",
-    "Valor": "$600K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f25e5bcb-cb3d-4f7b-9709-eedac9580bd8\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Trenostruzzo Turbo 3000",
-    "Valor": "$937.5K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"90be489f-508c-4f60-93c8-fb81dc776ae1\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "La Vacca Saturno Saturnita",
-    "Valor": "$3.7M/s",
-    "Mutacion": "Rainbow",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"4fdb3dd1-b90b-4ec9-aa18-7a077b3e9999\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Tukanno Bananno",
-    "Valor": "$100K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"819139e7-7146-4e42-9057-8826ccdcc088\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Piccione Macchina",
-    "Valor": "$225K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"15b9c26d-4e2a-4f3b-825c-a717d5413b4b\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "La Vacca Saturno Saturnita",
-    "Valor": "$3M/s",
-    "Mutacion": "Rainbow",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"f1c1b7dd-6b4a-42a2-ba62-3284831f1a7b\", game.Players.LocalPlayer)"
-  },
-  {
-    "Found Brainrot": "Orcalero Orcala",
-    "Valor": "$600K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"ab03b424-3bd3-4fb6-b3bb-e1ecae812afd\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Chimpanzini Spiderini",
-    "Valor": "$3.5M/s",
+    "Valor": "$1.9M/s",
     "Mutacion": "Gold",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a9ee46c6-c26a-4684-aaf7-e6df8167f0b8\", game.Players.LocalPlayer)"
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"0437fcd5-88a2-4773-b943-5927de31c2a1\", game.Players.LocalPlayer)"
   },
   {
-    "Found Brainrot": "La Grande Combinasion",
-    "Valor": "$40M/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"699ada6a-66dc-4bc6-b2e8-cdd5f47bbda9\", game.Players.LocalPlayer)"
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
+  },
+  {
+    "Found Brainrot": "(Vacío)",
+    "Valor": "(Vacío)",
+    "Mutacion": "(Vacío)",
+    "Join Server Script": "(Vacío)"
   }
 ]
