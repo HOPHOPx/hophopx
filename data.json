@@ -1,11 +1,5 @@
 [
   {
-    "Found Brainrot": "Girafa Celestre",
-    "Valor": "$300K/s",
-    "Mutacion": "Normal",
-    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"2a783b72-248f-4785-ad03-ec76bd343b82\", game.Players.LocalPlayer)"
-  },
-  {
     "Found Brainrot": "Los Tungtungtungcitos",
     "Valor": "$262.5K/s",
     "Mutacion": "Gold",
@@ -88,5 +82,11 @@
     "Valor": "$1.5M/s",
     "Mutacion": "Gold",
     "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"a692927c-3eb2-4304-b7b4-d90332bc66fc\", game.Players.LocalPlayer)"
+  },
+  {
+    "Found Brainrot": "Chimpanzini Spiderini",
+    "Valor": "$1.9M/s",
+    "Mutacion": "Gold",
+    "Join Server Script": "local TPService = game:GetService(\"TeleportService\")\nTPService:TeleportToPlaceInstance(109983668079237, \"6995906b-4634-4952-8bb0-3104a441d4ad\", game.Players.LocalPlayer)"
   }
 ]
